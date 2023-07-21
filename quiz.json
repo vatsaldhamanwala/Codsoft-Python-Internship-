@@ -1,0 +1,19 @@
+{
+    "questions":[
+        "1.Who developed Python Programming Language?",
+        "2.Which of the following is used to define a block of code in Python language?",
+        "3.Which keyword is used to define function in Python language?",
+        "4.Which of the following functions is a built-in function in python?",
+        "5.Which of the following statements are used in Exception Handling in Python?"
+    ],
+
+    "options":[
+        ["Wick van Rossum","Rasmus Lerdorf","Guido van Rossum","Niene Stom"],
+        ["Indentation"," Key","Brackets","All of the mentioned"],
+        ["Function","def","Fun","class"],
+        ["factorial()","print()"," seed()","sqrt()"],
+        ["try","except","finally","All of the mentioned"]  
+    ],
+    
+    "answers":[3,1,2,2,4]
+}
