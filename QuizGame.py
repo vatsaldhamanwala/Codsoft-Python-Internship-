@@ -13,9 +13,9 @@ with open('quiz.json') as file:
 ques = (obj['questions'])
 options = (obj['options'])
 ans = (obj['answers'])
-print(ques)
-print(options)
-print(ans)
+# print(ques)
+# print(options)
+# print(ans)
 
 
 class QuizGame:
