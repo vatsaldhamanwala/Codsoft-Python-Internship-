@@ -1,2 +1,2 @@
 # Codsoft-Python-Internship-
-Hello I m doing internship at codsoft company
+Hello I have done my internship in python programming at codsoft company.
